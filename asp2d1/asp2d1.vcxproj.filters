@@ -15,8 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="asp2d1.cpp">
+    <ClCompile Include="asp2d1a.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="asp2d1b.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="array.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>
